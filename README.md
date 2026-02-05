@@ -1,5 +1,6 @@
-# CodeAlpha_Task2
+# CodeAlpha_Task3
 -  SECOND TASK FROM Python Programming TASKS ON CodeAlpha by Trouzine Mohammed.
+-  the main task have 3 ideas and i need to choose one.
 # WHAT I USE:
  - importing os module to interact with the operating system.
  - importing shutil module to handle file operations.
